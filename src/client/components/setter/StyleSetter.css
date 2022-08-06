@@ -1,0 +1,12 @@
+.setter-item-label{
+  display: flex;
+  padding: 5px;
+}
+.style-name{
+
+  width: 70px;
+  
+}
+.setter-item-label>input{
+  flex: 1;
+}
